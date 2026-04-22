@@ -78,5 +78,10 @@ This reflects how modern IT support teams operate today — managing users and d
   This task demonstrates how IT support provisions user accounts in a modern **cloud-based (SaaS)** environment, ensuring users have the correct access, licences, and security settings from day one.
 ---
 ## [Device Autopilot & Enrollment](https://github.com/AmaanK03/Device-Autopilot-Enrollment)
+<img width="1606" height="519" alt="Image" src="https://github.com/user-attachments/assets/fc021c48-6a31-4fc8-bdd3-cf8f235a9ae6" />
+
+### Device Enrolment & Autopilot – Overview
+
+Device enrolment is the process of adding a device (laptop, mobile, or tablet) into Microsoft Intune so it can be managed, secured, and monitored by IT. Once enrolled, organisations can apply policies, install apps, and control access to company resources.
 
 
