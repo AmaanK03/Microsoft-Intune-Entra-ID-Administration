@@ -30,3 +30,50 @@ Microsoft Intune forms the foundation of this lab as a **Software-as-a-Service (
 As a SaaS platform, Intune is fully hosted and managed by Microsoft, meaning there is no need to maintain physical servers or infrastructure.  
 
 This reflects how modern IT support teams operate today — managing users and devices remotely through Microsoft 365, improving scalability, flexibility, and security compared to traditional on-prem environments.
+
+## 👤 Account Creation (Microsoft Intune / Entra ID)
+
+<img width="600" height="400" alt="User Setup" src="https://github.com/user-attachments/assets/83e0bd0d-a356-470a-974f-10d8d666d373" />
+
+### 🧩 User Setup
+
+- Created a new user within **Microsoft Entra ID (Azure AD)** via the Microsoft 365 admin centre  
+
+- Entered basic user details including:  
+  - First name and last name  
+  - Display name  
+  - Username (UPN format)  
+
+- Enabled **automatic password generation**  
+
+- Configured the account to **require password change on first login**  
+
+
+<img width="600" height="400" alt="License Assignment" src="https://github.com/user-attachments/assets/34ada7be-4039-4769-b73c-3bfa5f1f8f9b" />
+
+### 🔑 Licence Assignment
+
+- Assigned a **Microsoft 365 Business Premium** licence to the user  
+
+- Set usage location to **United Kingdom** (required for licence activation)  
+
+- Enabled access to core services such as:  
+  - Outlook (Exchange Online)  
+  - Microsoft Teams  
+  - OneDrive  
+  - SharePoint  
+  - Intune (Endpoint Management)  
+
+
+<img width="600" height="400" alt="Roles and Permissions" src="https://github.com/user-attachments/assets/ad2472de-289b-4c8a-8764-e799bbb4f565" />
+
+### ⚙️ Roles & Permissions
+
+- Assigned the user as a **standard user (no admin access)**  
+
+- Followed the principle of **least privilege** to reduce security risk  
+
+- Left admin roles (e.g. Global Admin, Exchange Admin) unassigned  
+
+This task demonstrates how IT support provisions user accounts in a modern **cloud-based (SaaS)** environment, ensuring users have the correct access, licences, and security settings from day one.
+
