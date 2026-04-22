@@ -80,8 +80,17 @@ This reflects how modern IT support teams operate today — managing users and d
 ## [Device Autopilot & Enrollment](https://github.com/AmaanK03/Device-Autopilot-Enrollment)
 <img width="1606" height="519" alt="Image" src="https://github.com/user-attachments/assets/fc021c48-6a31-4fc8-bdd3-cf8f235a9ae6" />
 
-### Device Enrolment & Autopilot – Overview
+### 🖥️ Device Enrolment & Autopilot – Overview
 
-Device enrolment is the process of adding a device (laptop, mobile, or tablet) into Microsoft Intune so it can be managed, secured, and monitored by IT. Once enrolled, organisations can apply policies, install apps, and control access to company resources.
+Enrolled a Windows 11 device into Microsoft Intune and configured Windows Autopilot to automate the setup process for end users.
 
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/f78deed6-11bd-4c1f-ad93-100dd19df444" />
 
+Configured Autopilot to deploy:
+- Microsoft 365 (Office apps)
+- Google Chrome
+- Key configuration policies for device setup
+
+The device was successfully enrolled into Microsoft Entra ID and Intune, with applications and settings applied automatically during first sign-in.
+
+This reflects how IT teams deploy and configure new devices efficiently using modern cloud-based tools.
