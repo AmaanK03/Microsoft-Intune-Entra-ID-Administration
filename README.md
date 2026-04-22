@@ -13,3 +13,20 @@
 - Policy deployment and device compliance monitoring  
 - Application deployment and management via Intune  
 - Hands-on experience with Microsoft 365 E5 cloud environment  
+
+
+## 🧩 Project Breakdown  
+
+### Microsoft Intune Setup (Endpoint Management)
+<img width="1279" height="589" alt="Image" src="https://github.com/user-attachments/assets/ca2502c7-d67b-40c6-bef2-b5b2affbddb7" />
+
+
+- Set up **Microsoft Intune** within the Microsoft Endpoint Manager admin centre  
+- Configured **Microsoft Entra ID (Azure AD)** for identity and access management  
+- Created a cloud-based lab environment (no on-prem servers required)  
+
+Microsoft Intune forms the foundation of this lab as a **Software-as-a-Service (SaaS)** solution, replacing traditional on-prem Active Directory by enabling **cloud-based device management, user authentication, and policy control**.  
+
+As a SaaS platform, Intune is fully hosted and managed by Microsoft, meaning there is no need to maintain physical servers or infrastructure.  
+
+This reflects how modern IT support teams operate today — managing users and devices remotely through Microsoft 365, improving scalability, flexibility, and security compared to traditional on-prem environments.
